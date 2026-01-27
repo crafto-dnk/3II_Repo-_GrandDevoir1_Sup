@@ -38,7 +38,7 @@
 - [9503477](https://github.com/abs-223/9503477_grand_devoirs.git)
 - [9503902](https://github.com/Eddystone2006/devoirsemestre1_developpementmobile_flutter_3ii)
 - [9503587](https://github.com/Moctar12n/Grand_Devoir.git)
-- [9503397](https://github.com/buttadiba/grand_devoir)
+- [9503397](https://github.com/buttadiba/granddevoir)
 - [9503490](https://github.com/MamadouD88/Devoir-app)
 - [9503394](https://github.com/FatoumataSKanta/granddevoir)
 - [9503317](https://github.com/alious-S/grand_devoir_def)
